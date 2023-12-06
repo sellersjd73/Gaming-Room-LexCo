@@ -1,4 +1,4 @@
-# The-Gaming-Room test
+# The-Gaming-Room
 Briefly summarize The Gaming Room client and their software requirements. Who was the client? What type of software did they want you to design?
 
 The Gaming Room client wished to design an existing game called Draw it or Lose it to run on multiple Operating Platforms.
